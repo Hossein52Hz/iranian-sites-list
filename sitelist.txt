@@ -1,4 +1,4 @@
-This file contain list of Iranian sites that hosted in Iran:
+This file contain list of Iranian sites that hosted in Iran based on https://adsl.tci.ir/:
 
 http://0192.dpdonya.com
 http://01co.net
